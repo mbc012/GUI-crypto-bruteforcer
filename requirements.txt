@@ -1,0 +1,6 @@
+bit==0.8.0
+bitcoinaddress==0.1.5
+loguru==0.5.3
+PyQt5==5.15.9
+requests==2.27.1
+web3==5.31.1
